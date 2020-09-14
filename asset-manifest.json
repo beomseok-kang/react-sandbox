@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-sandbox/static/css/main.0a4ad395.chunk.css",
+    "main.js": "/react-sandbox/static/js/main.d4b4ecb6.chunk.js",
+    "main.js.map": "/react-sandbox/static/js/main.d4b4ecb6.chunk.js.map",
+    "runtime-main.js": "/react-sandbox/static/js/runtime-main.1e8cd621.js",
+    "runtime-main.js.map": "/react-sandbox/static/js/runtime-main.1e8cd621.js.map",
+    "static/js/2.1af30914.chunk.js": "/react-sandbox/static/js/2.1af30914.chunk.js",
+    "static/js/2.1af30914.chunk.js.map": "/react-sandbox/static/js/2.1af30914.chunk.js.map",
+    "index.html": "/react-sandbox/index.html",
+    "precache-manifest.b67fdd316c36a1a585e9b87a41faca48.js": "/react-sandbox/precache-manifest.b67fdd316c36a1a585e9b87a41faca48.js",
+    "service-worker.js": "/react-sandbox/service-worker.js",
+    "static/css/main.0a4ad395.chunk.css.map": "/react-sandbox/static/css/main.0a4ad395.chunk.css.map",
+    "static/js/2.1af30914.chunk.js.LICENSE.txt": "/react-sandbox/static/js/2.1af30914.chunk.js.LICENSE.txt",
+    "static/media/useBeforeLeave.md": "/react-sandbox/static/media/useBeforeLeave.e4d09c74.md",
+    "static/media/useClick.md": "/react-sandbox/static/media/useClick.b671c687.md",
+    "static/media/useConfirm.md": "/react-sandbox/static/media/useConfirm.2bd4170a.md",
+    "static/media/useFadeIn.md": "/react-sandbox/static/media/useFadeIn.f9e5a8d0.md",
+    "static/media/useFullscreen.md": "/react-sandbox/static/media/useFullscreen.06ba87e8.md",
+    "static/media/useInput.md": "/react-sandbox/static/media/useInput.2115a839.md",
+    "static/media/useNetwork.md": "/react-sandbox/static/media/useNetwork.934f7ab7.md",
+    "static/media/useTabs.md": "/react-sandbox/static/media/useTabs.11e84e97.md",
+    "static/media/useTitle.md": "/react-sandbox/static/media/useTitle.381baca1.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e8cd621.js",
+    "static/js/2.1af30914.chunk.js",
+    "static/css/main.0a4ad395.chunk.css",
+    "static/js/main.d4b4ecb6.chunk.js"
+  ]
+}
