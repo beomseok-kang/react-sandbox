@@ -1,0 +1,18 @@
+.inner {
+    margin: 1rem 1rem;
+    border-radius: 1rem;
+    padding: 2rem;
+    box-shadow: 0 10px 50px #2C698D;
+}
+.center-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+@import './focusText.css';
+@import './glitch.css';
+@import './lettersInAndOut.css';
+@import './lettersUpAndDown.css';
+@import './terminalText.css';
+@import './textWithBackground.css';
