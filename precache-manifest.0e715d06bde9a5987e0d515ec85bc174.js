@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a03d6c4657f050c5819cadfcc9b1626",
+    "revision": "562a09d3f60e1741662730c74c109225",
     "url": "/react-sandbox/index.html"
   },
   {
-    "revision": "921578afe8eac6bc2945",
+    "revision": "816003757853c829faa3",
     "url": "/react-sandbox/static/css/main.0a4ad395.chunk.css"
   },
   {
-    "revision": "aaedd5c94419b9eced4c",
-    "url": "/react-sandbox/static/js/2.1af30914.chunk.js"
+    "revision": "9a535ec9f45054814266",
+    "url": "/react-sandbox/static/js/2.cd97eff6.chunk.js"
   },
   {
     "revision": "40046c021c0025c71b5ec67323b92a85",
-    "url": "/react-sandbox/static/js/2.1af30914.chunk.js.LICENSE.txt"
+    "url": "/react-sandbox/static/js/2.cd97eff6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "921578afe8eac6bc2945",
-    "url": "/react-sandbox/static/js/main.d4b4ecb6.chunk.js"
+    "revision": "816003757853c829faa3",
+    "url": "/react-sandbox/static/js/main.a621625f.chunk.js"
   },
   {
     "revision": "07de0e37ec88db9ce260",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b671c68716e457ade386d74a05a008e1",
     "url": "/react-sandbox/static/media/useClick.b671c687.md"
+  },
+  {
+    "revision": "16a3ee2643dd865c75818fa3b2095f64",
+    "url": "/react-sandbox/static/media/useClickOutside.16a3ee26.md"
   },
   {
     "revision": "2bd4170a6ba5cbefd4fc924145f03c94",
