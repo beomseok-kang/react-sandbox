@@ -6,5 +6,9 @@
   {
     "tab": "Useful Animation Effects",
     "path": "/useful-animation-effects"
+  },
+  {
+    "tab": "React Routing",
+    "path": "/react-routing"
   }
 ]

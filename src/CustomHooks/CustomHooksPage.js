@@ -22,6 +22,7 @@ import useFadeInMd from "./useFadeIn/useFadeIn.md";
 import useNetworkMd from "./useNetwork/useNetwork.md";
 import useFullscreenMd from "./useFullscreen/useFullscreen.md";
 import useClickOutside from "./useClickOutside/useClickOutside.md";
+import Inner from "../Shared/Inner";
 
 function CustomHooksPage() {
   const [md1, setMd1] = useState("");
@@ -88,7 +89,7 @@ function CustomHooksPage() {
   }, []);
 
   return (
-    <>
+    <Inner>
       <HookBlock md={md1} ExampleComponent={SampleUseInputComponent} />
       <HookBlock md={md2} ExampleComponent={SampleUseTabsComponent} />
       <HookBlock md={md3} ExampleComponent={SampleUseTitleComponent} />
@@ -102,7 +103,7 @@ function CustomHooksPage() {
       <HookBlock md={md8} ExampleComponent={SampleUseNetworkComponent} />
       <HookBlock md={md9} ExampleComponent={SampleUseFullScreenComponent} />
       <HookBlock md={md10} ExampleComponent={SampleUseClickOutsideComponent} />
-    </>
+    </Inner>
   );
 }
 
