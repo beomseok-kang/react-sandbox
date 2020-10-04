@@ -5,6 +5,7 @@ import NotFoundPage from "./NotFound/NotFoundPage";
 import Footer from "./Shared/Footer";
 import Header from "./Shared/Header";
 import UsefulAnimationEffectsPage from "./UsefulAnimationEffects/UsefulAnimationEffectsPage";
+import UsefulWidgetsPage from "./UsefulWidges/UsefulWidgetsPage";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           path="/useful-animation-effects"
           component={UsefulAnimationEffectsPage}
         />
+        <Route exact path="/useful-widgets" component={UsefulWidgetsPage} />
         <Route render={() => <NotFoundPage />} />
       </Switch>
       <Footer />

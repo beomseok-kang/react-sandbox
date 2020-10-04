@@ -4,7 +4,7 @@ import SyntaxHighlighter from "react-syntax-highlighter";
 import { atomOneDark } from "react-syntax-highlighter/dist/esm/styles/hljs";
 import styled from "styled-components";
 
-const StyledSection = styled.section`
+export const StyledSection = styled.section`
   background: #e3f6f5;
   margin: 1rem;
   border-radius: 1rem;
@@ -64,7 +64,7 @@ const StyledComponentWrapper = styled.div`
   border: 2.5px solid #272643;
 `;
 
-function HookBlock({ md, ExampleComponent }) {
+function SectionBlock({ md, ExampleComponent }) {
   return (
     <StyledSection>
       <ReactMarkdown
@@ -89,4 +89,4 @@ function Highlighter(props) {
   );
 }
 
-export default HookBlock;
+export default SectionBlock;

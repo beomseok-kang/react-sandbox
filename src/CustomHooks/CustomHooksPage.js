@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import HookBlock from "./HookBlock";
+import SectionBlock from "../Shared/SectionBlock";
 
 import SampleUseInputComponent from "./useInput/useInput";
 import SampleUseTabsComponent from "./useTabs/useTabs";
@@ -90,19 +90,22 @@ function CustomHooksPage() {
 
   return (
     <Inner>
-      <HookBlock md={md1} ExampleComponent={SampleUseInputComponent} />
-      <HookBlock md={md2} ExampleComponent={SampleUseTabsComponent} />
-      <HookBlock md={md3} ExampleComponent={SampleUseTitleComponent} />
-      <HookBlock md={md4} ExampleComponent={SampleUseClickComponent} />
-      <HookBlock
+      <SectionBlock md={md1} ExampleComponent={SampleUseInputComponent} />
+      <SectionBlock md={md2} ExampleComponent={SampleUseTabsComponent} />
+      <SectionBlock md={md3} ExampleComponent={SampleUseTitleComponent} />
+      <SectionBlock md={md4} ExampleComponent={SampleUseClickComponent} />
+      <SectionBlock
         md={md5}
         ExampleComponent={SampleUseConfirmAndUsePreventLeaveComponent}
       />
-      <HookBlock md={md6} ExampleComponent={SampleUseBeforeLeaveComponent} />
-      <HookBlock md={md7} ExampleComponent={SampleUseFadeInComponent} />
-      <HookBlock md={md8} ExampleComponent={SampleUseNetworkComponent} />
-      <HookBlock md={md9} ExampleComponent={SampleUseFullScreenComponent} />
-      <HookBlock md={md10} ExampleComponent={SampleUseClickOutsideComponent} />
+      <SectionBlock md={md6} ExampleComponent={SampleUseBeforeLeaveComponent} />
+      <SectionBlock md={md7} ExampleComponent={SampleUseFadeInComponent} />
+      <SectionBlock md={md8} ExampleComponent={SampleUseNetworkComponent} />
+      <SectionBlock md={md9} ExampleComponent={SampleUseFullScreenComponent} />
+      <SectionBlock
+        md={md10}
+        ExampleComponent={SampleUseClickOutsideComponent}
+      />
     </Inner>
   );
 }
