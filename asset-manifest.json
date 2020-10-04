@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/react-sandbox/static/css/main.966588fc.chunk.css",
-    "main.js": "/react-sandbox/static/js/main.ba5ab400.chunk.js",
-    "main.js.map": "/react-sandbox/static/js/main.ba5ab400.chunk.js.map",
+    "main.js": "/react-sandbox/static/js/main.4c5c1490.chunk.js",
+    "main.js.map": "/react-sandbox/static/js/main.4c5c1490.chunk.js.map",
     "runtime-main.js": "/react-sandbox/static/js/runtime-main.1e8cd621.js",
     "runtime-main.js.map": "/react-sandbox/static/js/runtime-main.1e8cd621.js.map",
-    "static/js/2.e1cc71c1.chunk.js": "/react-sandbox/static/js/2.e1cc71c1.chunk.js",
-    "static/js/2.e1cc71c1.chunk.js.map": "/react-sandbox/static/js/2.e1cc71c1.chunk.js.map",
+    "static/css/2.fb346933.chunk.css": "/react-sandbox/static/css/2.fb346933.chunk.css",
+    "static/js/2.3e768476.chunk.js": "/react-sandbox/static/js/2.3e768476.chunk.js",
+    "static/js/2.3e768476.chunk.js.map": "/react-sandbox/static/js/2.3e768476.chunk.js.map",
     "index.html": "/react-sandbox/index.html",
-    "precache-manifest.2bd836d8079f9574962da260de614050.js": "/react-sandbox/precache-manifest.2bd836d8079f9574962da260de614050.js",
+    "precache-manifest.3703267ca13c5a56afa38dd1e8a79d7f.js": "/react-sandbox/precache-manifest.3703267ca13c5a56afa38dd1e8a79d7f.js",
     "service-worker.js": "/react-sandbox/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/react-sandbox/static/css/2.fb346933.chunk.css.map",
     "static/css/main.966588fc.chunk.css.map": "/react-sandbox/static/css/main.966588fc.chunk.css.map",
-    "static/js/2.e1cc71c1.chunk.js.LICENSE.txt": "/react-sandbox/static/js/2.e1cc71c1.chunk.js.LICENSE.txt",
+    "static/js/2.3e768476.chunk.js.LICENSE.txt": "/react-sandbox/static/js/2.3e768476.chunk.js.LICENSE.txt",
+    "static/media/Carousel.md": "/react-sandbox/static/media/Carousel.52baf5ee.md",
     "static/media/nf.png": "/react-sandbox/static/media/nf.d61738e5.png",
     "static/media/useBeforeLeave.md": "/react-sandbox/static/media/useBeforeLeave.e4d09c74.md",
     "static/media/useClick.md": "/react-sandbox/static/media/useClick.b671c687.md",
@@ -26,8 +29,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1e8cd621.js",
-    "static/js/2.e1cc71c1.chunk.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.3e768476.chunk.js",
     "static/css/main.966588fc.chunk.css",
-    "static/js/main.ba5ab400.chunk.js"
+    "static/js/main.4c5c1490.chunk.js"
   ]
 }

@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3d7f4a7b0017358cb13f55795532a20",
+    "revision": "e3b5c6e8b94f651acd1b8105d552e3e9",
     "url": "/react-sandbox/index.html"
   },
   {
-    "revision": "87c3df4c7a2ca7a5e6fb",
+    "revision": "42933bc5b75c4e891654",
+    "url": "/react-sandbox/static/css/2.fb346933.chunk.css"
+  },
+  {
+    "revision": "b9a91fea68c1f9424052",
     "url": "/react-sandbox/static/css/main.966588fc.chunk.css"
   },
   {
-    "revision": "698374d04a1b0645429d",
-    "url": "/react-sandbox/static/js/2.e1cc71c1.chunk.js"
+    "revision": "42933bc5b75c4e891654",
+    "url": "/react-sandbox/static/js/2.3e768476.chunk.js"
   },
   {
-    "revision": "40046c021c0025c71b5ec67323b92a85",
-    "url": "/react-sandbox/static/js/2.e1cc71c1.chunk.js.LICENSE.txt"
+    "revision": "8ebb70227fec3b61ad3af3d99ebe8940",
+    "url": "/react-sandbox/static/js/2.3e768476.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87c3df4c7a2ca7a5e6fb",
-    "url": "/react-sandbox/static/js/main.ba5ab400.chunk.js"
+    "revision": "b9a91fea68c1f9424052",
+    "url": "/react-sandbox/static/js/main.4c5c1490.chunk.js"
   },
   {
     "revision": "07de0e37ec88db9ce260",
     "url": "/react-sandbox/static/js/runtime-main.1e8cd621.js"
+  },
+  {
+    "revision": "52baf5ee544f4d6a81e1b10e0f7184b2",
+    "url": "/react-sandbox/static/media/Carousel.52baf5ee.md"
   },
   {
     "revision": "d61738e54b3c2fa12d08dfcb5fa190b4",
